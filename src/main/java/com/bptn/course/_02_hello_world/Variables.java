@@ -1,4 +1,4 @@
-package com.bptn.course._01_variables;
+package com.bptn.course._02_hello_world;
 
 public class Variables {
 
