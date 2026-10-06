@@ -89,3 +89,10 @@ public class Game {
 
 }
 
+/*
+
+ * It creates the players and board, sets up the game, changes player turns,
+ * handles exceptions, switches between players,
+ * checks for a winner, and ends the game when someone wins or the board is full.
+ */
+

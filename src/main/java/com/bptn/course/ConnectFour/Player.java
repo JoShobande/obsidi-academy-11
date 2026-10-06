@@ -42,3 +42,9 @@ public class Player {
 	}
 
 }
+
+/*
+ * The Player class stores each player's name and player number.
+ * It also allows the player to choose a column for their move
+ * and provides getter and setter methods for the player's information.
+ */

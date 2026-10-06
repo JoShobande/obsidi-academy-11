@@ -217,3 +217,11 @@ public class Board {
 	}
 
 }
+
+/*
+ * The Board class manages the Connect Four board.
+ * It creates and initializes the 2D array, prints the board,
+ * adds tokens to the lowest available row in a selected column,
+ * checks whether columns or the entire board are full,
+ * and checks for a winner horizontally, vertically, and diagonally.
+ */
